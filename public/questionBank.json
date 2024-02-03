@@ -1,0 +1,264 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "category": "Investing",
+        "difficulty": "easy",
+        "text": "What is the primary goal of investing?",
+        "options": [
+          "a. Maximizing risk",
+          "b. Minimizing returns",
+          "c. Preserving capital",
+          "d. Ignoring market trends"
+        ],
+        "correctOption": "c. Preserving capital"
+      },
+      {
+        "id": 2,
+        "category": "Investing",
+        "difficulty": "easy",
+        "text": "Which of the following is considered a low-risk investment?",
+        "options": [
+          "a. Stocks",
+          "b. Bonds",
+          "c. Cryptocurrency",
+          "d. Options"
+        ],
+        "correctOption": "b. Bonds"
+      },
+      {
+        "id": 3,
+        "category": "Investing",
+        "difficulty": "easy",
+        "text": "What is diversification in investment?",
+        "options": [
+          "a. Putting all your money in one asset",
+          "b. Spreading investments across different assets",
+          "c. Investing only in technology stocks",
+          "d. Ignoring market fluctuations"
+        ],
+        "correctOption": "b. Spreading investments across different assets"
+      },
+      {
+        "id": 4,
+        "category": "Investing",
+        "difficulty": "easy",
+        "text": "What does ROI stand for in investing?",
+        "options": [
+          "a. Return on Investment",
+          "b. Rate of Inflation",
+          "c. Risk of Interest",
+          "d. Revenue from Operations"
+        ],
+        "correctOption": "a. Return on Investment"
+      },
+      {
+        "id": 5,
+        "category": "Investing",
+        "difficulty": "hard",
+        "text": "What does the term 'arbitrage' refer to in finance?",
+        "options": [
+          "a. Long-term investing strategy",
+          "b. Taking advantage of price differences in different markets",
+          "c. Hedging against market volatility",
+          "d. Short-selling stocks"
+        ],
+        "correctOption": "b. Taking advantage of price differences in different markets"
+      },
+      {
+        "id": 6,
+        "category": "Budgeting",
+        "difficulty": "medium",
+        "text": "What is the 50/30/20 rule in budgeting?",
+        "options": [
+          "a. 50% savings, 30% spending, 20% investing",
+          "b. 50% needs, 30% wants, 20% savings",
+          "c. 50% housing, 30% transportation, 20% entertainment",
+          "d. 50% groceries, 30% dining out, 20% travel"
+        ],
+        "correctOption": "b. 50% needs, 30% wants, 20% savings"
+      },
+      {
+        "id": 7,
+        "category": "Budgeting",
+        "difficulty": "medium",
+        "text": "How does the snowball method work in debt repayment?",
+        "options": [
+          "a. Paying off the smallest debts first",
+          "b. Paying off high-interest debts first",
+          "c. Ignoring debt repayment",
+          "d. Consolidating all debts into one"
+        ],
+        "correctOption": "a. Paying off the smallest debts first"
+      },
+      {
+        "id": 8,
+        "category": "Budgeting",
+        "difficulty": "easy",
+        "text": "What is the purpose of an emergency fund in personal finance?",
+        "options": [
+          "a. To fund luxury purchases",
+          "b. To cover unexpected expenses",
+          "c. To invest in high-risk assets",
+          "d. To pay off debts"
+        ],
+        "correctOption": "b. To cover unexpected expenses"
+      },
+      {
+        "id": 9,
+        "category": "Budgeting",
+        "difficulty": "hard",
+        "text": "What is the difference between a fixed expense and a variable expense?",
+        "options": [
+          "a. Fixed expenses are essential, while variable expenses are non-essential",
+          "b. Fixed expenses remain constant, while variable expenses change",
+          "c. Fixed expenses are paid monthly, while variable expenses are paid annually",
+          "d. Fixed expenses are tax-deductible, while variable expenses are not"
+        ],
+        "correctOption": "b. Fixed expenses remain constant, while variable expenses change"
+      },
+      {
+        "id": 10,
+        "category": "Budgeting",
+        "difficulty": "hard",
+        "text": "What is the purpose of a sinking fund in budgeting?",
+        "options": [
+          "a. To save for a specific future expense",
+          "b. To pay off debts",
+          "c. To invest in the stock market",
+          "d. To fund luxury purchases"
+        ],
+        "correctOption": "a. To save for a specific future expense"
+      },
+      {
+        "id": 11,
+        "category": "Credit",
+        "difficulty": "easy",
+        "text": "What is a credit score?",
+        "options": [
+          "a. A measure of an individual's ability to save money",
+          "b. A measure of an individual's ability to invest",
+          "c. A measure of an individual's creditworthiness",
+          "d. A measure of an individual's income"
+        ],
+        "correctOption": "c. A measure of an individual's creditworthiness"
+      },
+      {
+        "id": 12,
+        "category": "Credit",
+        "difficulty": "hard",
+        "text": "What factors contribute to a higher credit score according to the FICO scoring model?",
+        "options": [
+          "a. Having a diverse mix of credit types, such as credit cards and installment loans",
+          "b. Closing old credit accounts to simplify your credit history",
+          "c. Applying for multiple new credit cards within a short period",
+          "d. Carrying high balances on credit cards relative to your credit limits"
+        ],
+        "correctOption": "a. Having a diverse mix of credit types, such as credit cards and installment loans"
+      },
+      {
+        "id": 13,
+        "category": "Credit",
+        "difficulty": "medium",
+        "text": "What is the difference between a secured loan and an unsecured loan?",
+        "options": [
+          "a. Secured loans require collateral, while unsecured loans do not",
+          "b. Secured loans have lower interest rates than unsecured loans",
+          "c. Secured loans are easier to qualify for than unsecured loans",
+          "d. Secured loans have longer repayment terms than unsecured loans"
+        ],
+        "correctOption": "a. Secured loans require collateral, while unsecured loans do not"
+      },
+      {
+        "id": 14,
+        "category": "Credit",
+        "difficulty": "easy",
+        "text": "What is the purpose of a credit card?",
+        "options": [
+          "a. To build credit history",
+          "b. To borrow money",
+          "c. To earn rewards",
+          "d. All of the above"
+        ],
+        "correctOption": "d. All of the above"
+      },
+      {
+        "id": 15,
+        "category": "Credit",
+        "difficulty": "medium",
+        "text": "What is the difference between a credit card and a debit card?",
+        "options": [
+          "a. Credit cards have higher interest rates than debit cards",
+          "b. Credit cards require a credit check, while debit cards do not",
+          "c. Credit cards allow you to borrow money, while debit cards do not",
+          "d. Credit cards have annual fees, while debit cards do not"
+        ],
+        "correctOption": "c. Credit cards allow you to borrow money, while debit cards do not"
+      },
+      {
+        "id": 16,
+        "category": "Taxes",
+        "difficulty": "easy",
+        "text": "What is the purpose of filing a tax return?",
+        "options": [
+          "a. To pay taxes",
+          "b. To receive a tax refund",
+          "c. To report income and expenses to the government",
+          "d. To avoid paying taxes"
+        ],
+        "correctOption": "c. To report income and expenses to the government"
+      },
+        {
+            "id": 17,
+            "category": "Taxes",
+            "difficulty": "medium",
+            "text": "What is the difference between a tax deduction and a tax credit?",
+            "options": [
+            "a. Tax deductions reduce taxable income, while tax credits reduce the amount of tax owed",
+            "b. Tax deductions reduce the amount of tax owed, while tax credits reduce taxable income",
+            "c. Tax deductions are only available to high-income earners, while tax credits are available to all taxpayers",
+            "d. Tax deductions are refundable, while tax credits are non-refundable"
+            ],
+            "correctOption": "a. Tax deductions reduce taxable income, while tax credits reduce the amount of tax owed"
+        },
+        {
+            "id": 18,
+            "category": "Taxes",
+            "difficulty": "medium",
+            "text": "What is the purpose of a W-4 form?",
+            "options": [
+            "a. To report income and expenses to the government",
+            "b. To calculate the amount of tax to withhold from an employee's paycheck",
+            "c. To claim tax deductions and credits",
+            "d. To file a tax return"
+            ],
+            "correctOption": "b. To calculate the amount of tax to withhold from an employee's paycheck"
+        },
+        {
+            "id": 19,
+            "category": "Taxes",
+            "difficulty": "medium",
+            "text": "What is the difference between a tax refund and a tax rebate?",
+            "options": [
+            "a. A tax refund is the amount of money owed to a taxpayer, while a tax rebate is a refundable tax credit",
+            "b. A tax refund is a refundable tax credit, while a tax rebate is the amount of money owed to a taxpayer",
+            "c. A tax refund is the amount of money owed to a taxpayer, while a tax rebate is a non-refundable tax credit",
+            "d. A tax refund is a non-refundable tax credit, while a tax rebate is the amount of money owed to a taxpayer"
+            ],
+            "correctOption": "a. A tax refund is the amount of money owed to a taxpayer, while a tax rebate is a refundable tax credit"
+        },
+        {
+            "id": 20,
+            "category": "Taxes",
+            "difficulty": "hard",
+            "text": "What is the purpose of a 1099 form?",
+            "options": [
+            "a. To report income and expenses to the government",
+            "b. To calculate the amount of tax to withhold from an employee's paycheck",
+            "c. To claim tax deductions and credits",
+            "d. To report income earned from sources other than an employer"
+            ],
+            "correctOption": "d. To report income earned from sources other than an employer"
+        }
+    ]
+  }
