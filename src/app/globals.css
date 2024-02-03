@@ -6,6 +6,16 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+
+  /* custom colors */
+  --pink-primary: #FABCFF;
+  --pink-secondary: #EB00FF;
+  --blue-primary: #7FB2FF;
+  --blue-secondary: #0047FF;
+  --green-primary: #9BE7A7;
+  --green-secondary: #00D923;
+  --yellow-primary: #FFD97D;
+  --yellow-secondary: #FFA800;
 }
 
 @media (prefers-color-scheme: dark) {
